@@ -32,7 +32,7 @@ public class UdpEchoClient {
             socket.send(requestPacket);
 
 
-            System.out.println("[%s:%d] req:; resp: \n",requestPacket.getAddress().toString(),requestPacket.getAddress());
+            //System.out.println("[%s:%d] req:; resp: \n",requestPacket.getAddress().toString(),requestPacket.getAddress());
 
 
         }
