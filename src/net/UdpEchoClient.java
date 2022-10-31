@@ -34,6 +34,7 @@ public class UdpEchoClient {
 
             //System.out.println("[%s:%d] req:; resp: \n",requestPacket.getAddress().toString(),requestPacket.getAddress());
 
+            System.out.println("ch");
 
         }
 
